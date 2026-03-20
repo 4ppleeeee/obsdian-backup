@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "20_Resources/Architecture-Skill.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Architecture-Skill"
             }
           }
         ]
@@ -197,10 +197,16 @@
   },
   "active": "226a56bbff6166a4",
   "lastOpenFiles": [
+    "20_Resources/PVE-Proxy-Gateway.md",
+    "10_Projects/QMD-Deep-Dive.md",
+    "README.md",
+    "20_Resources/Security-Proxy.md",
+    "20_Resources/Architecture-Skill.md",
+    "20_Resources",
+    "10_Projects",
     "未命名.md",
     "未命名.base",
     "欢迎.md",
-    "README.md",
     "未命名.canvas",
     "2026-03-20.md",
     "未命名 1.canvas",
