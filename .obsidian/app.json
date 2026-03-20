@@ -1,3 +1,4 @@
 {
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "promptDelete": false
 }
