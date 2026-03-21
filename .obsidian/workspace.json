@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20_Resources/Architecture-Skill.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Architecture-Skill"
+              "title": "README"
             }
           }
         ]
@@ -197,14 +197,20 @@
   },
   "active": "226a56bbff6166a4",
   "lastOpenFiles": [
+    "homelab/pve/未命名.md",
+    "homelab/pve/OpenClaw",
+    "homelab/pve/FnOS",
+    "homelab/pve/iStoreOS",
+    "未命名.md",
+    "homelab/pve",
+    "homelab",
+    "20_Resources/Architecture-Skill.md",
     "20_Resources/PVE-Proxy-Gateway.md",
     "10_Projects/QMD-Deep-Dive.md",
     "README.md",
     "20_Resources/Security-Proxy.md",
-    "20_Resources/Architecture-Skill.md",
     "20_Resources",
     "10_Projects",
-    "未命名.md",
     "未命名.base",
     "欢迎.md",
     "未命名.canvas",
