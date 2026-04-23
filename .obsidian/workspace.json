@@ -195,8 +195,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "226a56bbff6166a4",
+  "active": "29dde5ca2f04efbd",
   "lastOpenFiles": [
+    "20_Resources/Skill-Restart-Recovery.md",
+    "20_Resources/Skill-Memory-Hierarchy.md",
+    "20_Resources/Performance-Optimization.md",
+    "10_Projects/Agent-Sudo-Security.md",
     "面试/题库/面试.md",
     "面试/题库/锁.md",
     "面试/题库/面试题库.md",
