@@ -180,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 433.5
+    "width": 433.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,7 +196,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "29dde5ca2f04efbd",
+  "active": "226a56bbff6166a4",
   "lastOpenFiles": [
     "20_Resources/Skill-Restart-Recovery.md",
     "20_Resources/Skill-Memory-Hierarchy.md",
