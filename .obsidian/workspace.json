@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "欢迎.md",
+                "file": "面试/4 月 23 号 李少潭.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "欢迎 的大纲"
+              "title": "4 月 23 号 李少潭 的大纲"
             }
           },
           {
@@ -197,6 +197,8 @@
   },
   "active": "29dde5ca2f04efbd",
   "lastOpenFiles": [
+    "面试/题库/面试题库.md",
+    "面试/4 月 23 号 李少潭.md",
     "面试/题库/Java 基础/锁.md",
     "面试/题库/Java 基础/单例.md",
     "面试/题库/Java 基础/Java 基础.md",
@@ -205,8 +207,6 @@
     "面试/题库/Android 基础/Android 基础.md",
     "面试/题库/Android 基础",
     "面试/题库/面试.md",
-    "面试/4 月 23 号 李少潭.md",
-    "面试/题库/面试题库.md",
     "面试/题库/锁.md",
     "20_Resources/Skill-Restart-Recovery.md",
     "20_Resources/Skill-Memory-Hierarchy.md",
